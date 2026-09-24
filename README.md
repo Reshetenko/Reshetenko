@@ -43,6 +43,4 @@ Building the data pipeline underneath when the data isn't ready to be analysed.
 **Tools** — Python (pandas, NumPy, SciPy) · SQL · statistical modelling · data
 extraction from documents and the web · LaTeX and automated report generation
 
-**Languages** — Russian (native) · English · German
-
 📫 anna@explicitmathematicsprogram.com
