@@ -18,14 +18,16 @@ significant improvement. The project doesn't stop at the p-value: it translates 
 result into money under stated assumptions, giving −$142k expected, −$354k downside
 and +$70k upside per month. Recommendation: do not roll out. The upside is small and
 uncertain; the downside is not.
-*Python · hypothesis testing · confidence intervals · decision-risk modelling · PDF report · dashboard*
+*Python · hypothesis testing · confidence intervals · decision-risk modelling · PDF report*
+[Live dashboard →](https://reshetenko.github.io/AB-testing/dashboard/)
 
 **[Superstore: where a growing business loses money](https://github.com/Reshetenko/superstore-sales-analysis)**
 51,290 rows, 25,035 orders, four years, seven markets. Sales grew from $2.26M to
 $4.30M, but margin held at 11.6% — and **24.5% of all order lines were loss-making**.
 The analysis isolates which markets, categories and discount policies destroy profit,
 and what to change.
-*Python · pandas · profitability analysis · customer and product segmentation · LaTeX report · dashboard*
+*Python · pandas · profitability analysis · customer and product segmentation · LaTeX report*
+[Live dashboard →](https://reshetenko.github.io/superstore-sales-analysis/dashboard/)
 
 Both repositories include the data, the scripts, a written report and a dashboard,
 and both reproduce from a single command.
